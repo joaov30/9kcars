@@ -22,7 +22,7 @@ namespace _9kcars.Migrations
                         .Annotation("MySQL:ValueGenerationStrategy", MySQLValueGenerationStrategy.IdentityColumn),
                     Marca = table.Column<string>(type: "varchar(100)", maxLength: 100, nullable: false),
                     Modelo = table.Column<string>(type: "varchar(100)", maxLength: 100, nullable: false),
-                    Ano = table.Column<int>(type: "int", maxLength: 4, nullable: false),
+                    Ano = table.Column<int>(type: "int", nullable: false),
                     Categoria = table.Column<string>(type: "varchar(100)", maxLength: 100, nullable: false),
                     Cor = table.Column<string>(type: "varchar(100)", maxLength: 100, nullable: false),
                     Valor = table.Column<decimal>(type: "decimal(18,2)", nullable: false),

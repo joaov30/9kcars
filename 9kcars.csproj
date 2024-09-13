@@ -21,4 +21,16 @@
     <PackageReference Include="MySql.EntityFrameworkCore" Version="8.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\img\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img\carrosel\Nissan Silvia.jpg" />
+    <None Include="wwwroot\img\carrosel\RX-50.jpg" />
+    <None Include="wwwroot\img\carrosel\Subaru.jpg" />
+    <None Include="wwwroot\img\carrosel\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg" />
+    <None Include="wwwroot\img\carrosel\Toyota Sports FR.jpg" />
+  </ItemGroup>
+
 </Project>

@@ -235,3 +235,4 @@ J:\TI\C Sharp\9kcars\9kcars\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting
 J:\TI\C Sharp\9kcars\9kcars\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 J:\TI\C Sharp\9kcars\9kcars\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 J:\TI\C Sharp\9kcars\9kcars\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\TI\C Sharp\9kcars\9kcars\obj\Debug\net8.0\9kcars.sourcelink.json

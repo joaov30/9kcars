@@ -27,7 +27,6 @@ namespace _9kcars.Migrations
 
                     b.Property<int?>("Ano")
                         .IsRequired()
-                        .HasMaxLength(4)
                         .HasColumnType("int");
 
                     b.Property<string>("Categoria")

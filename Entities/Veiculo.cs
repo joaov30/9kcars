@@ -14,7 +14,6 @@ namespace _9kcars.Entities
 		[Required(ErrorMessage = "O nome do Modelo é obrigatório.")]
 		public string? Modelo { get; set; }
 
-		[MaxLength(4)]
 		[Required(ErrorMessage ="O ano do Veiculo é obrigatório")]
 		public int? Ano {  get; set; }
 

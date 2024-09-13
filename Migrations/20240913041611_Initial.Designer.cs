@@ -11,7 +11,7 @@ using _9kcars.Data;
 namespace _9kcars.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240910212713_Initial")]
+    [Migration("20240913041611_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -30,7 +30,6 @@ namespace _9kcars.Migrations
 
                     b.Property<int?>("Ano")
                         .IsRequired()
-                        .HasMaxLength(4)
                         .HasColumnType("int");
 
                     b.Property<string>("Categoria")
