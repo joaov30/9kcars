@@ -34,5 +34,7 @@ namespace _9kcars.Entities
 
 		[Required(ErrorMessage = "O campo Ativo é obrigatório.")]
 		public bool? Disponibilidade { get; set; }
-	}
+
+        public string? FotoUrl { get; set; }
+    }
 }

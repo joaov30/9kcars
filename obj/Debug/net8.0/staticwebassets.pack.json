@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\img\\carrosel\\Toyota Sports FR.jpg"
     },
     {
+      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\nsx.jpg",
+      "PackagePath": "staticwebassets\\img\\nsx.jpg"
+    },
+    {
       "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

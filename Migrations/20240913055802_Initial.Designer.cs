@@ -11,7 +11,7 @@ using _9kcars.Data;
 namespace _9kcars.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240913041611_Initial")]
+    [Migration("20240913055802_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -45,6 +45,9 @@ namespace _9kcars.Migrations
                     b.Property<bool?>("Disponibilidade")
                         .IsRequired()
                         .HasColumnType("tinyint(1)");
+
+                    b.Property<string>("FotoUrl")
+                        .HasColumnType("longtext");
 
                     b.Property<string>("Marca")
                         .IsRequired()

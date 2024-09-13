@@ -43,6 +43,9 @@ namespace _9kcars.Migrations
                         .IsRequired()
                         .HasColumnType("tinyint(1)");
 
+                    b.Property<string>("FotoUrl")
+                        .HasColumnType("longtext");
+
                     b.Property<string>("Marca")
                         .IsRequired()
                         .HasMaxLength(100)

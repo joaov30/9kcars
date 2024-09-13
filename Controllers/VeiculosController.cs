@@ -39,6 +39,7 @@ namespace _9kcars.Controllers
             {
                 return NotFound();
             }
+            veiculo.FotoUrl = $"/img/{veiculo.Modelo}.jpg";
 
             return View(veiculo);
         }

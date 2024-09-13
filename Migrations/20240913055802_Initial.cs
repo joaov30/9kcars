@@ -27,7 +27,8 @@ namespace _9kcars.Migrations
                     Cor = table.Column<string>(type: "varchar(100)", maxLength: 100, nullable: false),
                     Valor = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Placa = table.Column<string>(type: "varchar(8)", maxLength: 8, nullable: false),
-                    Disponibilidade = table.Column<bool>(type: "tinyint(1)", nullable: false)
+                    Disponibilidade = table.Column<bool>(type: "tinyint(1)", nullable: false),
+                    FotoUrl = table.Column<string>(type: "longtext", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -37,8 +38,8 @@ namespace _9kcars.Migrations
 
             migrationBuilder.InsertData(
                 table: "Veiculos",
-                columns: new[] { "VeiculoId", "Ano", "Categoria", "Cor", "Disponibilidade", "Marca", "Modelo", "Placa", "Valor" },
-                values: new object[] { 1, 1991, "Sports Car", "Formula Red", true, "Acura", "NSX", "ABC-1234", 800m });
+                columns: new[] { "VeiculoId", "Ano", "Categoria", "Cor", "Disponibilidade", "FotoUrl", "Marca", "Modelo", "Placa", "Valor" },
+                values: new object[] { 1, 1991, "Sports Car", "Formula Red", true, null, "Acura", "NSX", "ABC-1234", 800m });
         }
 
         /// <inheritdoc />

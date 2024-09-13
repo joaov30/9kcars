@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WV1KBib/8RVe9XoIniKEhbhmoRo/eP8eMf4j2iXnjKg=",
+  "Hash": "ijOx+3C7+GAtN+eQy7Hse63o5Jzt7gGyr+ExJbfhggY=",
   "Source": "9kcars",
   "BasePath": "_content/9kcars",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\carrosel\\Toyota Sports FR.jpg"
+    },
+    {
+      "Identity": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\nsx.jpg",
+      "SourceId": "9kcars",
+      "SourceType": "Discovered",
+      "ContentRoot": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
+      "BasePath": "_content/9kcars",
+      "RelativePath": "img/nsx.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nsx.jpg"
     },
     {
       "Identity": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\js\\site.js",
