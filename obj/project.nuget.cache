@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ku3qIWU+QPk=",
+  "dgSpecHash": "nOnsFVqj8yU=",
   "success": true,
-  "projectFilePath": "J:\\TI\\C Sharp\\9kcars\\9kcars\\9kcars.csproj",
+  "projectFilePath": "D:\\TI\\C Sharp\\9kcars\\9kcars\\9kcars.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaov\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

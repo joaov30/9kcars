@@ -7343,24 +7343,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\joaov\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\joaov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\TI\\C Sharp\\9kcars\\9kcars\\9kcars.csproj",
+      "projectUniqueName": "D:\\TI\\C Sharp\\9kcars\\9kcars\\9kcars.csproj",
       "projectName": "9kcars",
-      "projectPath": "J:\\TI\\C Sharp\\9kcars\\9kcars\\9kcars.csproj",
+      "projectPath": "D:\\TI\\C Sharp\\9kcars\\9kcars\\9kcars.csproj",
       "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
-      "outputPath": "J:\\TI\\C Sharp\\9kcars\\9kcars\\obj\\",
+      "outputPath": "D:\\TI\\C Sharp\\9kcars\\9kcars\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

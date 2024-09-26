@@ -1,271 +1,279 @@
 {
   "Files": [
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\9kcars.bundle.scp.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\9kcars.bundle.scp.css",
       "PackagePath": "staticwebassets\\9kcars.bundle.scp.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\css\\site.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\favicon.ico",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Nissan Silvia.jpg",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\PRIUS-2009.jpg",
+      "PackagePath": "staticwebassets\\img\\PRIUS-2009.jpg"
+    },
+    {
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\Supra-GR.jpg",
+      "PackagePath": "staticwebassets\\img\\Supra-GR.jpg"
+    },
+    {
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Nissan Silvia.jpg",
       "PackagePath": "staticwebassets\\img\\carrosel\\Nissan Silvia.jpg"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\RX-50.jpg",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\RX-50.jpg",
       "PackagePath": "staticwebassets\\img\\carrosel\\RX-50.jpg"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Subaru.jpg",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Subaru.jpg",
       "PackagePath": "staticwebassets\\img\\carrosel\\Subaru.jpg"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg",
       "PackagePath": "staticwebassets\\img\\carrosel\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Toyota Sports FR.jpg",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Toyota Sports FR.jpg",
       "PackagePath": "staticwebassets\\img\\carrosel\\Toyota Sports FR.jpg"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\nsx.jpg",
-      "PackagePath": "staticwebassets\\img\\nsx.jpg"
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\nsx-1991.jpg",
+      "PackagePath": "staticwebassets\\img\\nsx-1991.jpg"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\js\\site.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "J:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

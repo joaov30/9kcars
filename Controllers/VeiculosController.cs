@@ -39,7 +39,8 @@ namespace _9kcars.Controllers
             {
                 return NotFound();
             }
-            veiculo.FotoUrl = $"/img/{veiculo.Modelo}.jpg";
+            //Pela formatação do nome dos arquivos da foto de cada carro é necessário colocar o traço " - "
+            veiculo.FotoUrl = $"/img/{veiculo.Modelo}-{veiculo.Ano}.jpg";
 
             return View(veiculo);
         }

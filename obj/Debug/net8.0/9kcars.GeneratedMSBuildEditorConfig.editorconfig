@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _9kcars
 build_property.RootNamespace = _9kcars
-build_property.ProjectDir = J:\TI\C Sharp\9kcars\9kcars\
+build_property.ProjectDir = D:\TI\C Sharp\9kcars\9kcars\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = J:\TI\C Sharp\9kcars\9kcars
+build_property.MSBuildProjectDirectory = D:\TI\C Sharp\9kcars\9kcars
 build_property._RazorSourceGeneratorDebug = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Home/Index.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Home/Privacy.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Shared/Error.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Create.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Delete.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Details.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Edit.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Index.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Veiculos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/_ViewImports.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/_ViewStart.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/TI/C Sharp/9kcars/9kcars/Views/Shared/_Layout.cshtml]
+[D:/TI/C Sharp/9kcars/9kcars/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uyvag3k5w5
