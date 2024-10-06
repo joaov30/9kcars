@@ -17,28 +17,36 @@
       "PackagePath": "staticwebassets\\img\\PRIUS-2009.jpg"
     },
     {
-      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\Supra-GR.jpg",
-      "PackagePath": "staticwebassets\\img\\Supra-GR.jpg"
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\Supra-GR-2020.jpg",
+      "PackagePath": "staticwebassets\\img\\Supra-GR-2020.jpg"
     },
     {
-      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Nissan Silvia.jpg",
-      "PackagePath": "staticwebassets\\img\\carrosel\\Nissan Silvia.jpg"
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\JDM-capa.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\JDM-capa.jpg"
     },
     {
-      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\RX-50.jpg",
-      "PackagePath": "staticwebassets\\img\\carrosel\\RX-50.jpg"
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\Nissan Silvia.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\Nissan Silvia.jpg"
     },
     {
-      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Subaru.jpg",
-      "PackagePath": "staticwebassets\\img\\carrosel\\Subaru.jpg"
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\R33-capa.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\R33-capa.jpg"
     },
     {
-      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg",
-      "PackagePath": "staticwebassets\\img\\carrosel\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg"
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\RX-50.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\RX-50.jpg"
     },
     {
-      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Toyota Sports FR.jpg",
-      "PackagePath": "staticwebassets\\img\\carrosel\\Toyota Sports FR.jpg"
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\Subaru.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\Subaru.jpg"
+    },
+    {
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg",
+      "PackagePath": "staticwebassets\\img\\background\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg"
+    },
+    {
+      "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\Toyota Sports FR.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\Toyota Sports FR.jpg"
     },
     {
       "Id": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\nsx-1991.jpg",

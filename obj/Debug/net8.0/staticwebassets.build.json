@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hw3L/rNguEWyn2jtp8La40dhYDnj4Mm8R618WEmwGeM=",
+  "Hash": "9KHRkRL0rGW3IGp/c3lEcAhDhfZUUtUXBc2XZw2aHU4=",
   "Source": "9kcars",
   "BasePath": "_content/9kcars",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Nissan Silvia.jpg",
+      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\JDM-capa.jpg",
       "SourceId": "9kcars",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
       "BasePath": "_content/9kcars",
-      "RelativePath": "img/carrosel/Nissan Silvia.jpg",
+      "RelativePath": "img/background/JDM-capa.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\carrosel\\Nissan Silvia.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\background\\JDM-capa.jpg"
     },
     {
-      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\RX-50.jpg",
+      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\Nissan Silvia.jpg",
       "SourceId": "9kcars",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
       "BasePath": "_content/9kcars",
-      "RelativePath": "img/carrosel/RX-50.jpg",
+      "RelativePath": "img/background/Nissan Silvia.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\carrosel\\RX-50.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\background\\Nissan Silvia.jpg"
     },
     {
-      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Subaru.jpg",
+      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\R33-capa.jpg",
       "SourceId": "9kcars",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
       "BasePath": "_content/9kcars",
-      "RelativePath": "img/carrosel/Subaru.jpg",
+      "RelativePath": "img/background/R33-capa.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\carrosel\\Subaru.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\background\\R33-capa.jpg"
     },
     {
-      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg",
+      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\RX-50.jpg",
       "SourceId": "9kcars",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
       "BasePath": "_content/9kcars",
-      "RelativePath": "img/carrosel/Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg",
+      "RelativePath": "img/background/RX-50.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\carrosel\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\background\\RX-50.jpg"
     },
     {
-      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\carrosel\\Toyota Sports FR.jpg",
+      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\Subaru.jpg",
       "SourceId": "9kcars",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
       "BasePath": "_content/9kcars",
-      "RelativePath": "img/carrosel/Toyota Sports FR.jpg",
+      "RelativePath": "img/background/Subaru.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\carrosel\\Toyota Sports FR.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\background\\Subaru.jpg"
+    },
+    {
+      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg",
+      "SourceId": "9kcars",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
+      "BasePath": "_content/9kcars",
+      "RelativePath": "img/background/Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\background\\Team Kunimitsu Honda NSX - Suzuka, 1995.jpeg"
+    },
+    {
+      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\background\\Toyota Sports FR.jpg",
+      "SourceId": "9kcars",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
+      "BasePath": "_content/9kcars",
+      "RelativePath": "img/background/Toyota Sports FR.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\background\\Toyota Sports FR.jpg"
     },
     {
       "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\nsx-1991.jpg",
@@ -226,12 +264,12 @@
       "OriginalItemSpec": "wwwroot\\img\\PRIUS-2009.jpg"
     },
     {
-      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\Supra-GR.jpg",
+      "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\img\\Supra-GR-2020.jpg",
       "SourceId": "9kcars",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\",
       "BasePath": "_content/9kcars",
-      "RelativePath": "img/Supra-GR.jpg",
+      "RelativePath": "img/Supra-GR-2020.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,7 +280,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Supra-GR.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\Supra-GR-2020.jpg"
     },
     {
       "Identity": "D:\\TI\\C Sharp\\9kcars\\9kcars\\wwwroot\\js\\site.js",
